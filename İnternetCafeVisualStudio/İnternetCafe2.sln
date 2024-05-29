@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İnternetCafe2", "İnternetCafe2.csproj", "{7E1630E9-ADFB-4F72-976A-FE8342270D1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InternetCafe", "C:\Users\abb\Desktop\InternetCafe\InternetCafe.vdproj", "{3F430D62-A783-4F83-A01F-F88956D578B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "C:\Users\abb\Desktop\Setup\Setup.vdproj", "{3CF3FA49-D9FF-4345-A8A7-54ABDB12DBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1630E9-ADFB-4F72-976A-FE8342270D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1630E9-ADFB-4F72-976A-FE8342270D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1630E9-ADFB-4F72-976A-FE8342270D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1630E9-ADFB-4F72-976A-FE8342270D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F430D62-A783-4F83-A01F-F88956D578B0}.Debug|Any CPU.ActiveCfg = Debug
+		{3F430D62-A783-4F83-A01F-F88956D578B0}.Release|Any CPU.ActiveCfg = Release
+		{3CF3FA49-D9FF-4345-A8A7-54ABDB12DBCE}.Debug|Any CPU.ActiveCfg = Debug
+		{3CF3FA49-D9FF-4345-A8A7-54ABDB12DBCE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B958477-EAC8-41C0-A756-540EA623AA6A}
+	EndGlobalSection
+EndGlobal
